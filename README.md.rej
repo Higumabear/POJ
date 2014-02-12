@@ -1,0 +1,11 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -0,0 +1,9 @@
++POJ
++===
++
++Archives of my POJ 
++
++ACしたもののみ
++
++rename.shはPOJのArchiveからダウンロードしものを展開したフォルダにおいて実行すると、
++ACしたもののみを"問題番号"＋拡張子でリネームするシェルスクリプト(bash)
